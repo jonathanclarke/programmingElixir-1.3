@@ -8,8 +8,8 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   
 ### ChapterTwo - Pattern Matching
   
-  * **Exercise:** [PatternMatchingOne](blob/master/lib/chapterTwo/PatternMatchingOne.ex)
-  * **Exercise:** [PatternMatchingTwo](blob/master/lib/chapterTwo/PatternMatchingTwo.ex)
+  * **Exercise:** [PatternMatchingOne](lib/chapterTwo/PatternMatchingOne.ex)
+  * **Exercise:** [PatternMatchingTwo](lib/chapterTwo/PatternMatchingTwo.ex)
 
 ## TODO
 - [x] Chapter 1
