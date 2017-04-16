@@ -1,19 +1,40 @@
-# ProgrammingElixir
+# Programming Elixir 1.3
 
-**TODO: Add description**
+Stepping through all of the exercise files in the book Programming Elixir 1.3
 
-## Installation
+## Complete
+* Chapter 1
+  ** No exercises present
+  
+* ChapterTwo
+  ** Exercise: PatternMatchingOne
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `programmingElixir` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [{:programmingElixir, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/programmingElixir](https://hexdocs.pm/programmingElixir).
-
+## TODO
+* Chapter 2
+  ** Exercise: PatternMatchingTwo
+  ** Exercise: PatternMatchingThree
+  
+* Chapter 3
+* Chapter 4
+* Chapter 5
+* Chapter 6
+* Chapter 7
+* Chapter 8
+* Chapter 9
+* Chapter 10
+* Chapter 11
+* Chapter 12
+* Chapter 13
+* Chapter 14
+* Chapter 15
+* Chapter 16
+* Chapter 17
+* Chapter 18
+* Chapter 19
+* Chapter 20
+* Chapter 21
+* Chapter 22
+* Chapter 23
+* Chapter 24
+* Appendix 1
+* Appendix 2
