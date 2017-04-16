@@ -10,6 +10,7 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   
   * **Exercise:** [PatternMatchingOne](lib/chapterTwo/PatternMatchingOne.ex)
   * **Exercise:** [PatternMatchingTwo](lib/chapterTwo/PatternMatchingTwo.ex)
+  * **Exercise:** [PatternMatchingThree](lib/chapterTwo/PatternMatchingThree.ex)
 
 ## TODO
 - [x] Chapter 1

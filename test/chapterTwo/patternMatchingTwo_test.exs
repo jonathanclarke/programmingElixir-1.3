@@ -1,6 +1,6 @@
 defmodule PatternMatchingTwoTest do
   use ExUnit.Case
-  doctest PatternMatchingOne
+  doctest PatternMatchingTwo
 
   test "function_a" do
     assert_raise MatchError, fn ->
