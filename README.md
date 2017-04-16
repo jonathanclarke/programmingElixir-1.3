@@ -4,15 +4,15 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
 
 ## Complete
 * Chapter 1
-  ** No exercises present
+⋅⋅* No exercises present
   
 * ChapterTwo
-  ** Exercise: PatternMatchingOne
+..* Exercise: PatternMatchingOne
 
 ## TODO
 * Chapter 2
-  ** Exercise: PatternMatchingTwo
-  ** Exercise: PatternMatchingThree
+⋅⋅* Exercise: PatternMatchingTwo
+⋅⋅* Exercise: PatternMatchingThree
   
 * Chapter 3
 * Chapter 4
