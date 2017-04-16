@@ -1,6 +1,6 @@
 defmodule PatternMatchingOne do
   @moduledoc """
-  Documentation for ProgrammingElixir.
+  Documentation for PatternMatchingOne
   """
 
   @doc """

@@ -9,6 +9,7 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
 ### ChapterTwo - Pattern Matching
   
   * **Exercise:** [PatternMatchingOne](beilabs/programmingElixir-1.3/blob/master/lib/chapterTwo/PatternMatchingOne.ex)
+  * **Exercise:** [PatternMatchingTwo](beilabs/programmingElixir-1.3/blob/master/lib/chapterTwo/PatternMatchingTwo.ex)
 
 ## TODO
 - [x] Chapter 1
