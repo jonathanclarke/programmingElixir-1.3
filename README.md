@@ -2,6 +2,7 @@
 
 Stepping through all of the exercise files in the book Programming Elixir 1.3
 
+
 ## Complete
 ### Chapter 1
   * Introduction, there were no exercises.
@@ -22,9 +23,8 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   * **Exercise:** [KeywordList](lib/chapterFour/KeywordList.ex)
   * **Exercise:** [Maps](lib/chapterFour/Maps.ex)
   * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
+  * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
   
-  
-  <!-- * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex) -->
   <!-- * **Exercise:** [Operators](lib/chapterFour/Operators.ex) -->
   <!-- * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex) -->
   
@@ -56,3 +56,6 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
 - [ ] Chapter 24
 - [ ] Appendix 1
 - [ ] Appendix 2
+
+## Interesting Links
+* [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
