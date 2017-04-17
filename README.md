@@ -16,8 +16,20 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   
   * **Exercise:** [Copying data](lib/chapterThree/CopyingData.ex)
 
-
-## TODO
+### ChapterFour - Elixir Basics
+  
+  * **Exercise:** [Copying data](lib/chapterFour/ChapterFour.ex)
+  * **Exercise:** [KeywordList](lib/chapterFour/KeywordList.ex)
+  * **Exercise:** [Maps](lib/chapterFour/Maps.ex)
+  * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
+  
+  
+  * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
+  * **Exercise:** [Operators](lib/chapterFour/Operators.ex)
+  * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex)
+  
+  
+  ## TODO
 - [x] Chapter 1
 - [x] Chapter 2 
 - [x] Chapter 3
