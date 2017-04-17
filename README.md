@@ -18,15 +18,15 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
 
 ### ChapterFour - Elixir Basics
   
-  * **Exercise:** [Copying data](lib/chapterFour/ChapterFour.ex)
+  * **Exercise:** [Tuples and Lists](lib/chapterFour/TuplesAndLists.ex)
   * **Exercise:** [KeywordList](lib/chapterFour/KeywordList.ex)
   * **Exercise:** [Maps](lib/chapterFour/Maps.ex)
   * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
   
   
-  * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
-  * **Exercise:** [Operators](lib/chapterFour/Operators.ex)
-  * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex)
+  <!-- * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex) -->
+  <!-- * **Exercise:** [Operators](lib/chapterFour/Operators.ex) -->
+  <!-- * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex) -->
   
   
   ## TODO

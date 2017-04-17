@@ -1,6 +1,6 @@
-defmodule ChapterFour do
+defmodule TuplesAndLists do
   @moduledoc """
-  Documentation for ChapterFour
+  Documentation for TuplesAndLists
   """
 
 
@@ -8,7 +8,7 @@ defmodule ChapterFour do
   function_a
   ## Examples
 
-      iex> ChapterFour.function_a
+      iex> TuplesAndLists.function_a
       ["a"]
   """
   def function_a do
@@ -20,7 +20,7 @@ defmodule ChapterFour do
   function_b
   ## Examples
 
-      iex> ChapterFour.function_b
+      iex> TuplesAndLists.function_b
       [["a"], ["e"], ["i"], ["a"]]
   """
   def function_b do
@@ -31,7 +31,7 @@ defmodule ChapterFour do
   function_c
   ## Examples
 
-      iex> ChapterFour.function_c
+      iex> TuplesAndLists.function_c
       ["c", "t", "rp", "ll", "r"]
   """
   def function_c do
@@ -42,7 +42,7 @@ defmodule ChapterFour do
   function_d
   ## Examples
 
-      iex> ChapterFour.function_d
+      iex> TuplesAndLists.function_d
       "c*t*rp*ll*r"
   """
   def function_d do
@@ -54,7 +54,7 @@ defmodule ChapterFour do
   function_e
   ## Examples
 
-      iex> ChapterFour.function_e
+      iex> TuplesAndLists.function_e
       {:ok, 42, "next"}
   """
   def function_e do
@@ -85,7 +85,7 @@ defmodule ChapterFour do
   concatenation
   ## Examples
 
-      iex> ChapterFour.function_h
+      iex> TuplesAndLists.function_h
       [1, 2, 3, 4, 5, 6]
   """
   def function_h do
@@ -99,7 +99,7 @@ defmodule ChapterFour do
   difference
   ## Examples
 
-      iex> ChapterFour.function_i
+      iex> TuplesAndLists.function_i
       [1, 3]
   """
   def function_i do
@@ -112,7 +112,7 @@ defmodule ChapterFour do
   membership
   ## Examples
 
-      iex> ChapterFour.function_j
+      iex> TuplesAndLists.function_j
       true
   """
   def function_j do
@@ -126,7 +126,7 @@ defmodule ChapterFour do
   membership - false
   ## Examples
 
-      iex> ChapterFour.function_k
+      iex> TuplesAndLists.function_k
       false
   """
   def function_k do
