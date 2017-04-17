@@ -24,8 +24,8 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   * **Exercise:** [Maps](lib/chapterFour/Maps.ex)
   * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
   * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
+  * **Exercise:** [Operators](test/chapterFour/Operators_test.exs)
   
-  <!-- * **Exercise:** [Operators](lib/chapterFour/Operators.ex) -->
   <!-- * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex) -->
   
   
