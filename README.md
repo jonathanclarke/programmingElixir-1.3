@@ -66,3 +66,5 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
 
 ## Interesting Links
 * [Elixir Style Guide](https://github.com/christopheradams/elixir_style_guide)
+* [Elixir School](https://elixirschool.com)
+* [Elixir in Minutes](https://learnxinyminutes.com/docs/elixir/)
