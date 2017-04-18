@@ -25,10 +25,18 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
   * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
   * **Exercise:** [Operators](test/chapterFour/Operators_test.exs)
-  * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex)
+  * **Exercise:** [With Scope](lib/chapterFour/WithScope.ex)
+  
+### ChapterFive - Anonymous Functions
+  
+  <!-- * **Exercise:** [Anonymous Functions](lib/chapterFive/AnonymousFunctions.ex) -->
+  <!-- * **Exercise:** [Functions and Pattern Matching](lib/chapterFive/FunctionsAndPatternMatching.ex) -->
+  <!-- * **Exercise:** [One Function, Multiple Bodies](lib/chapterFive/OneFunctionMultipleBodies.ex) -->
+  <!-- * **Exercise:** [Functions can Return Functions](lib/chapterFive/FunctionsCanReturnFunctions.ex) -->
+  <!-- * **Exercise:** [Passing Functions as arguments](lib/chapterFive/PassinglkmFunctionsAsArguments.ex) -->
   
   
-  ## TODO
+## TODO
 - [x] Chapter 1
 - [x] Chapter 2 
 - [x] Chapter 3
