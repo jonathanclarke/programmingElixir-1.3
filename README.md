@@ -25,15 +25,14 @@ Stepping through all of the exercise files in the book Programming Elixir 1.3
   * **Exercise:** [Binaries](lib/chapterFour/Binaries.ex)
   * **Exercise:** [Dates and Times](lib/chapterFour/DatesAndTimes.ex)
   * **Exercise:** [Operators](test/chapterFour/Operators_test.exs)
-  
-  <!-- * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex) -->
+  * **Exercise:** [Variable Scope](lib/chapterFour/VariableScope.ex)
   
   
   ## TODO
 - [x] Chapter 1
 - [x] Chapter 2 
 - [x] Chapter 3
-- [ ] Chapter 4
+- [x] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
 - [ ] Chapter 7
